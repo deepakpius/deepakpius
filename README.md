@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @deepakpius
 - 👀 I’m interested in Automation Control and Robotics
-- 🌱 I’m currently learning BTech Applied Electronics & Instrumentation
 - 💞️ I’m looking to collaborate on CNC robot projects
 - 📫 How to reach me piusdeepak7@gmail.com
 
